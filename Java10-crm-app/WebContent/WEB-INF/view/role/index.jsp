@@ -107,7 +107,7 @@
 						<c:forEach var="role" items="${Role}" varStatus="index">
 
 							<tr>
-								<td>${role.id}</td>
+								<td>${index.count}</td>
 								<td>${role.name}</td>
 								<td>${role.description}</td>
 								<td><a
