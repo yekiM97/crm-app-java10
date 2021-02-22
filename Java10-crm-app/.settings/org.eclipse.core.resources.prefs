@@ -1,0 +1,9 @@
+eclipse.preferences.version=1
+encoding//src/cybersoft/java10/filter/FirstFilter.java=UTF-8
+encoding//src/cybersoft/java10/servlet/AuthServlet.java=UTF-8
+encoding//src/cybersoft/java10/servlet/HomeServlet.java=UTF-8
+encoding//src/cybersoft/java10/servlet/RoleServlet.java=UTF-8
+encoding//src/cybersoft/java10/servlet/StatusServlet.java=UTF-8
+encoding//src/cybersoft/java10/servlet/TaskCategoryServlet.java=UTF-8
+encoding//src/cybersoft/java10/servlet/TaskServlet.java=UTF-8
+encoding//src/cybersoft/java10/servlet/UserServlet.java=UTF-8
